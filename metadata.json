@@ -1,0 +1,8 @@
+{
+  "name": "YojanaSetu - Version 1 - Working Backup",
+  "description": "Official scheme directory, eligibility checker, and digital governance portal for Indore District Administration and Madhya Pradesh.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
